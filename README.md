@@ -4,6 +4,7 @@
 
 ---
 
+<img width="1200" height="628" alt="Greentail" src="https://github.com/user-attachments/assets/d6b8d6ec-fabb-4ee9-aa00-3aa143f8223c" />
 
 
 ## ✨ คุณสมบัติหลัก (Features)
@@ -29,6 +30,6 @@
 ---
 
 
-## 🔗 สามารถดูหน้าเว็บตัวอย่างเพิ่มเติมได้ที่ลิงก์ด้านล้าง
+## 🔗 สามารถดูหน้าเว็บตัวอย่างเพิ่มเติมได้ที่ลิงก์ด้านล่าง
 
 * 🌐 **GreenTail:**(https://canva.link/6dge4z01d0q4e2d)
